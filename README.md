@@ -11,5 +11,5 @@ The "Movie Planner" project aims to help users easily explore and manage their m
 [GitHub](https://github.com/RevanAlgh/Angular_Project)
 
 ## Team Members:
-- [Revan](Revanalgh)
-- [Lina](xnlina)
+- [Revan](https://github.com/RevanAlgh)
+- [Lina](https://github.com/xnlina)
